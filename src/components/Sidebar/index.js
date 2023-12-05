@@ -38,17 +38,17 @@ const Sidebar = () => {
 
         <ul>
           <li>
-            <a href="https://www.linkedin.com/" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/vishal-kumar-48633a1a1/" rel="noreferrer">
               <FontAwesomeIcon icon={faLinkedin}  color='#4d4d4e'/>
             </a>
           </li>
           <li>
-            <a href="https://www.github.com/" rel="noreferrer">
+            <a href="https://github.com/vishalkr101" rel="noreferrer">
               <FontAwesomeIcon icon={faGithub}  color='#4d4d4e'/>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/" rel="noreferrer">
+            <a href="https://www.instagram.com/vishaal0_0/" rel="noreferrer">
               <FontAwesomeIcon icon={faInstagram}  color='#4d4d4e'/>
             </a>
           </li>

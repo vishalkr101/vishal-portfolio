@@ -41,7 +41,7 @@ const About = () => {
           <p>
             I have hands-on experience in multiple programming languages and
             frameworks such as Java, ReactJS & NodeJS and I have contributed to
-            medium and large scaled projects such as food delivery platforms who
+            medium and large scaled projects such as food delivery platforms which
             operates worldwide.
           </p>
           <p>
