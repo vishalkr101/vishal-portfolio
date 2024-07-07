@@ -32,7 +32,7 @@ const About = () => {
             />
           </h1>
           <p>
-            Greetings! I am Vishal. I am a Software Engineer with 1.5 years of
+            Greetings! I am Vishal. I am a Software Engineer with 2 years of
             hands-on experience in full stack web development. I am a dedicated
             and result-driven developer who thrives in fast paced work
             environment. I put complex ideas of mind on web and send it to the
